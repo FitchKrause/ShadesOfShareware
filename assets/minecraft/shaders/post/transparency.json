@@ -84,7 +84,7 @@
             "uniforms": [
                 {
                     "name": "Resolution",
-                    "values": [ 17 ]
+                    "values": [ 9 ]
                 },
                 {
                     "name": "MosaicSize",
